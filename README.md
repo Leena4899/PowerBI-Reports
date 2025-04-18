@@ -9,7 +9,14 @@ deliver granular and actionable business insights.
 performance or underperformance. 
 • Included a line chart for forecasting sales trends for the upcoming year, helping stakeholders plan and align strategies based on 
 future sales estimates.
-# Attaching the visual images of the above project.
+# Attaching the source file and visual images of the above project.
 
-![Supermarket Sales Analytics](https://github.com/user-attachments/assets/b6337315-b4e9-4bc0-80b7-cdc01a84ba3a)
-![Uploading Sales Forecasting.png…]()
+![Supermarket Sales Analytics](https://github.com/user-attachments/assets/a04a8a00-0f98-4200-946a-3dddd89830a5)
+
+
+![Sales Forecasting](https://github.com/user-attachments/assets/d121b480-720d-45f5-ac0c-18f01af05026)
+
+
+
+
+
